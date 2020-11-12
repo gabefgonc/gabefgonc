@@ -43,11 +43,7 @@
 
 ➡️ [mais posts...][blog]
 
----
 
-
-
----
 
 ### 📺 Últimos videos do YouTube:
 
@@ -60,17 +56,14 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabefgonc" alt="top-languages"></img>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=knifey" alt="top-languages"></img>
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="gabefgonc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabefgonc&show_icons=true" />
+  <img align="left" alt="gabefgonc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabefgonc&show_icons=true&count_private=true" />
 
 </details>
 
