@@ -52,20 +52,15 @@
 <!-- YOUTUBE:END -->
 
 ---
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Atividade Recente
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabefgonc" alt="top-languages"></img>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabefgonc&repo=knifey" alt="top-languages"></img>
-</details>
 
-<details>
+### :zap: Github Stats
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="gabefgonc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabefgonc&show_icons=true&count_private=true" />
 
-</details>
 
 [blog]: https://gabefgonc.github.io/
 [youtube]: https://www.youtube.com/channel/UCMq3cttV2QFbVtCjmyGPHig
