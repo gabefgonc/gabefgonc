@@ -35,13 +35,12 @@
 
 
 
-### 📕 Latest Blog Posts
+### 📕 Últimos posts do blog!
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][blog]
+➡️ [mais posts...][blog]
 
 ---
 
