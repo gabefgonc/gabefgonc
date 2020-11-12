@@ -57,7 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabefgonc&repo=knifey" alt="top-languages"></img>
 
 ### :zap: Github Stats
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="gabefgonc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabefgonc&show_icons=true&count_private=true" />
 
