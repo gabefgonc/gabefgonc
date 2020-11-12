@@ -38,6 +38,7 @@
 ### 📕 Últimos posts do blog!
 
 <!-- BLOG-POST-LIST:START -->
+- [Meu Novo Projeto, Islands New Era](/2020/11/11/Meu-novo-projeto,-Islands-New-Era.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [mais posts...][blog]
