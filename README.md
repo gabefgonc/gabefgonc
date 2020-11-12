@@ -45,6 +45,10 @@
 
 ---
 
+![Minhas estatisticas do github!](https://github-readme-stats.vercel.app/api?username=gabefgonc&show_icons=true)
+
+---
+
 ### 📺 Últimos videos do YouTube:
 
 <!-- YOUTUBE:START -->
