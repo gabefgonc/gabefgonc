@@ -52,6 +52,7 @@
 ### 📺 Últimos videos do YouTube:
 
 <!-- YOUTUBE:START -->
+- [minty walking](https://www.youtube.com/watch?v=jd0GZDrkBn8)
 <!-- YOUTUBE:END -->
 
 ---
