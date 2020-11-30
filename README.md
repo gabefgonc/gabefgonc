@@ -48,6 +48,7 @@
 ### 📺 Últimos videos do YouTube:
 
 <!-- YOUTUBE:START -->
+- [Chegou o reggae!   Valorant Montage](https://www.youtube.com/watch?v=y17Pg4G2IlQ)
 - [minty walking](https://www.youtube.com/watch?v=jd0GZDrkBn8)
 <!-- YOUTUBE:END -->
 
