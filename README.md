@@ -1,66 +1,22 @@
-### Prazer, Gabriel 👋
+# Hi, I'm Gabe! 👋
 
-## Programador e Gamer!
+## Programming Student and Gamer!
 
-- 🌱 Aprendendo C# e MonoGame.
-- 🏝️ Projeto atual: Islands New Era
-- 💻 Talk is cheap, show me the code!
-
+- 🌱 Learning Javascript, Typescript, React, React Native, and Node.js
+- 💻 "Talk is cheap, show me the code", Linus Torvalds
 
 
-### Conecte-se comigo:
+### Technologies I am learning:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Linguagens e Ferramentas:
-
-<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/452/visual-studio.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/1200px-MonoGame_Logo.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <br />
 <br />
-
-
-
-### 📕 Últimos posts do blog!
-
-<!-- BLOG-POST-LIST:START -->
-- [Meu Novo Projeto, Islands New Era](/2020/11/11/Meu-novo-projeto,-Islands-New-Era.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [mais posts...][blog]
-
-
-
-### 📺 Últimos videos do YouTube:
-
-<!-- YOUTUBE:START -->
-- [Showing my modded Old 3DS XL with 32GB SD card!](https://www.youtube.com/watch?v=EEN1tfaO_Ek)
-<!-- YOUTUBE:END -->
 
 ---
-### :zap: Atividade Recente
+### :zap: Recent Activity
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabefgonc" alt="top-languages"></img><br/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabefgonc&repo=knifey" alt="top-languages"></img>
 
 ### :zap: Github Stats
 
   <img align="left" alt="gabefgonc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabefgonc&show_icons=true&count_private=true" />
-
-
-[blog]: https://gabefgonc.github.io/
-[youtube]: https://www.youtube.com/channel/UCMq3cttV2QFbVtCjmyGPHig
-[instagram]: https://instagram.com/gabefgonc
