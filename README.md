@@ -1,6 +1,6 @@
 # Hi, I'm Gabe! 👋
 
-## Programming Student and Gamer!
+## Programming Student
 
 - 🌱 Learning Javascript, Typescript, React, React Native, and Node.js
 - 💻 "Talk is cheap, show me the code", Linus Torvalds
