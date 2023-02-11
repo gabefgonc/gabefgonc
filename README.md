@@ -10,7 +10,7 @@
 
 ### How to reach me:
 
- <a href="https://discord.gg/user/The%20GabeFGonc#3200" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+ <a href="https://discordapp.com/users/596035072818282498" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
  <a href="https://instagram.com/gabefgonc" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="mailto:gabefgonc@gmail.com?subject=Contact @gabefgonc"><img alt="e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
