@@ -5,7 +5,7 @@
 - 🌱 Always learning
 - 📲 React Native mobile developer
 - 💻 "Talk is cheap, show me the code", Linus Torvalds
-- ❔ Ask me anything related to programming, frontend, or backend development!
+- ❔ Ask me anything related to programming!
 
 ---
 
