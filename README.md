@@ -2,7 +2,8 @@
 
 ## Programming Student
 
-- 🌱 Learning Elixir, TypeScript, JavaScript. Focusing on Full Stack development
+- 🌱 Always learning
+- 📲 React Native mobile developer
 - 💻 "Talk is cheap, show me the code", Linus Torvalds
 - ❔ Ask me anything related to programming, frontend, or backend development!
 
