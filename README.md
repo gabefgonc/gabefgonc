@@ -1,6 +1,6 @@
 # Hi, I'm Gabe! 👋
 
-## Programming Student
+## Programmer
 
 - 🌱 Always learning
 - 📲 React Native mobile developer
