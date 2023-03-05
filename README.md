@@ -3,7 +3,7 @@
 ## Programmer
 
 - 🌱 Always learning
-- 📲 React Native mobile developer
+- 📲 Frontend developer
 - 💻 "Talk is cheap, show me the code", Linus Torvalds
 - ❔ Ask me anything related to programming!
 
